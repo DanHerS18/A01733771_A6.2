@@ -1,0 +1,16 @@
+[
+    {
+        "customer_id": 1,
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "john.doe@example.com",
+        "phone": "123-456-7890"
+    },
+    {
+        "customer_id": 2,
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "email": "jane.smith@example.com",
+        "phone": "098-765-4321"
+    }
+]

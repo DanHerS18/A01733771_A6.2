@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Hotel ABC",
+        "location": "New York",
+        "rooms": [
+            {"room_id": 101, "room_type": "Single", "price": 100},
+            {"room_id": 102, "room_type": "Double", "price": 150}
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Hotel XYZ",
+        "location": "Los Angeles",
+        "rooms": [
+            {"room_id": 201, "room_type": "Single", "price": 120},
+            {"room_id": 202, "room_type": "Suite", "price": 200}
+        ]
+    }
+]
